@@ -1,0 +1,106 @@
+Call for Papers
+
+"Ten years back, ten years forward: achievements, lessons and the future for digital curation"
+
+The first Digital Curation Conference took place in Bath in September 2005; one year after the Digital Curation Centre was launched. Since the inaugural conference we have covered a range of curation issues from the simple question of "What is Digital Curation", through to more complex issues of infrastructure, radical sharing and open data and how to encourage collaboration and create a curation community. Content has covered topical research, bold looks into the future as well as distillations of lessons learnt from practice.
+
+The Call for Papers is now open and in this our 10th year we encourage submissions that take a 10-year view whether into the past, present or future. Our emphasis is on how we move forward building on what we’ve learned. Contributors are invited to reflect on the changes they have seen in a number of different areas (listed below), to consider the likely developments in these areas and the emerging challenges in the next decade.
+
+Proposers should identify the session theme they most closely align with and submit using the templates provided on the Submissions page. Different lengths of abstract are required based on the type of submission being made. For information about the key submission dates check the Dates page.
+
+We're pleased to announce the introduction of two new submission formats: Birds of a Feather sessions and data papers. Further details at the end of the page
+Session themes
+A decade of data curation
+
+Papers should reflect on the developments that have taken place in the area of digital curation over the past ten years, and the implications these have for the future; reflections and synthesis of what has happened are welcome but all should aim to draw on this to identify future and current perspectives and action:
+
+    Whatever happened to...?
+    What were the lasting trends and passing phases?
+    What lessons have we learned?
+    What are the major advances that have been made?
+    What are the next big challenges we need to tackle?
+
+Curation Infrastructure
+
+Papers should describe institutional, consortia, national or international infrastructure supporting digital curation and research data management:
+
+    Tools, systems and services that are in development
+    Evaluations of existing tools
+    Proposals for new approaches to large-scale service delivery
+    Cutting edge research and exploration into new curation methods
+
+Education and Training
+
+Papers should explore the education and training needs of digital or data curators, researchers (in the area of data management), or the staff that support them:
+
+    What knowledge and skills do they need?
+    How effective are current courses in delivering such knowledge and skills?
+    What best practice is being established in educating and training these groups? What innovations are being explored?
+    What is the trajectory that courses should follow?
+    What skills do curators, researchers & support staff need now, what will they need in   future?
+    What methods are most effective? e.g. immersive/embedded approaches, co-location?
+
+Sustainability and strategy
+
+Papers should consider how digital curation and research data management activities can be sustained and developed in the medium to long term:
+
+    Analyses of the costs and benefits of curation
+    Demonstrations of return on investment
+    Case studies on the value of open data
+    Cost and funding models
+    Business planning
+
+ Working with challenging data
+
+Papers should discuss work with particularly challenging or specialist forms of data:
+
+    Data on a large scale – big data or large collections of long tail data
+    Complex data, models and formats
+    Disciplinary data
+
+Sharing data
+
+Papers should tackle issues associated with making data visible to, accessible to and usable by others:
+
+    The data publication process in general, or more specific aspects of it such as: preparing data for reuse, quality control of data (peer review, integrity checks), data citation, data reproducibility and validation
+    Measuring the impact and reuse of data by traditional or alternative metrics
+    Case studies on data reuse and usability and impact
+
+Legal and ethical issues
+
+Papers should consider legal and ethical issues including:
+
+    Security
+    Privacy
+    Personalised medicine
+    Clinical data
+    Identity issues
+
+New submission formats
+
+We invite a number of submission formats, including papers, posters, demos and workshops. We are also experimenting with a couple of new formats this year: Birds of a Feather sessions and data papers. 
+
+    Birds of a Feather will be 60 minute sessions that bring together individuals interested in a given topic relevant to the conference and suitable for discussion and networking. They will provide an open forum for exploring issues and questions. Speakers will be given a maximum of 20 minutes to present the topic and the remaining time will be for audience discussion.
+    Data papers will be short talks describing your datasets, how they were collected and the potential for reuse. The data should have been prepared for sharing and deposited in a recognised repository. Data papers will be grouped together as series of short 'lightening talks', separate to the other thematic sessions in the conference. As such, the abstracts don't need to align with one of the session themes.
+
+- See more at: http://www.dcc.ac.uk/events/idcc15/call-papers#sthash.JNPhBTcg.dp
+Submissions
+
+Submissions can take a number of forms and will be considered for either the main conference (9-10 February) or the "workshop"  days (11-12 February). ConfTool is now open for submissions
+
+On entering the ConfTool system you will be invited to choose the type of participation (e.g. research paper, BoF) and the relevant session theme/themes from the list of topics (except for data papers, which will be presented in one block so do not need to select a session theme).
+
+You can participate in a number of ways
+
+    Research Papers should present original and novel conclusions derived from significant supporting evidence. The evidence may be experimental, observational or textual in nature, but the method used to derive the conclusions must be clear. Research papers should be submitted as full papers for peer review and for inclusion in the IJDC as reviewed papers. Papers should be no longer than 10 pages (excluding references & appendices).
+    Practice Papers may identify challenges, propose a solution or approach tackling the same, or describe an activity or research project currently in progress or recently completed. Of particular interest are lessons learned from digital curation activities, and recommendations for best practice. Practice Track papers should be submitted as extended abstracts for peer review. These should be no more than 1000 words. On acceptance, we will request a final paper of no more than 10 pages. A subset will be published in the IJDC as general articles.
+    Data Papers - Data is central to what we do at DCC so we are introducing a new type of submission to give you credit for the data you've created and shared. We invite you to give a short lightning talk on your data, describing your datasets, how they were collected and the potential for reuse. The data should have been prepared for sharing and deposited in a recognised repository. Lightning talks are short presentations capped at 5 minutes each, so you'll need to be concise and grab the audience's attention by explaining what's so special about your data. Data papers should be submitted as one-page abstracts. As data papers are very short papers about your data, they do not need to fit in with the conference themes.
+    Birds of a Feather will be 60 minute sessions that bring together individuals interested in a given topic relevant to the conference and suitable for discussion and networking. They will provide an open forum for exploring issues and questions. Speakers will be given a maximum of 20 minutes to present the topic and the remaining time will be for audience discussion. BoF proposals should be submitted as a one-page abstract.
+    Posters enable individuals or groups to display information about innovative projects or activities in an informative, interactive environment. Posters will be displayed in the Foyer area outside the auditorium and there will be a dedicated poster slot to ensure all delegates have time to see the posters which interest them. Poster proposals should be submitted as one-page abstracts.  A poster PDF will need to be submitted prior to the conference.
+    Demonstrations of new software tools and resources will be considered for inclusion in a showcase session. Demos proposals should be submitted as a one-page abstract. This will need to include details of any technical requirements.
+    Workshop proposals can be for a half-day or a full day and should fit with the conference themes. Workshops can either be fully funded by the proposers in which case they will be free to delegates, or workshops can be fee based but the minimum cost will need to be underwritten by the proposers. Workshop proposals should include a title and overview of the workshop, plus any additional information e.g. draft programme, speakers, technical requirements, audience and maximum numbers.
+
+- See more at: http://www.dcc.ac.uk/events/idcc15/submissions#sthash.q5ttPSEo.dpuf
+
+
+
